@@ -2,7 +2,7 @@
 
  AUTHOR:	Taku Koyahata
  
- DATE:		2022/10/28
+ DATE:		Oct 28, 2022
  
  DESCRIPTION:	solving 2d cutting stock problem
 
