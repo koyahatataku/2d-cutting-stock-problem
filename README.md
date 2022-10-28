@@ -22,7 +22,9 @@
  
  		...
 
-## output csv format:	note stocks might be 90 degree rotated.
+## output csv format:	
+
+(note: stocks might be 90 degree rotated)
  
  1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Width
  
