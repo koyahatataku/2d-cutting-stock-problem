@@ -8,7 +8,7 @@ DESCRIPTION:	solving 2d cutting stock problem
 
 ## USAGE
  
-eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CSV_NAME)
+eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CSV_NAME)"
   
 (you should set eclipse path into enviroment variable PATH in advance)
 
@@ -46,7 +46,7 @@ eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CS
  
 ### command:
  
-eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d('in.csv','out.csv')
+eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
   
  
 ### stdout:
