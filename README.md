@@ -39,7 +39,7 @@ After execution, output csv file will be generated.
 
 ## EXAMPLE
  
-### in.csv:
+### in.csv
  
 10,10
  
@@ -51,12 +51,12 @@ After execution, output csv file will be generated.
  
 5,2
  
-### command:
+### command
  
 eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
   
  
-### stdout:
+### stdout
  
   1  1  1  4  4  4  4  4------
    
@@ -79,7 +79,7 @@ eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
 ---  3  3  3  3  3  3---------
  
  
-### out.csv:
+### out.csv
  
 0,0,3,3
  
@@ -90,7 +90,7 @@ eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
 3,0,5,2
  
  
-### NOTE: 
+## NOTE
  
 Though this program can genates other solutions with backtracking internally, 
  
