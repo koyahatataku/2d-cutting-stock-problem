@@ -13,7 +13,7 @@ You need to do below in advance:
 
 - set its executable program path into the PATH environment variable.
 
-then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell or command prompt:
+then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell/command prompt:
 
 - eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_PATH,OUTPUT_CSV_PATH)"
   
