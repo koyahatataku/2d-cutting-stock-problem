@@ -19,7 +19,7 @@ Then copy cuttingstock2d.ecl into your environment and prepare your input csv fi
 
 After execution, output csv file will be generated.
   
-## Input csv format(all numbers must be integers):
+## INPUT CSV FORMAT(all numbers must be integers):
  
 1st line: container Width, container Height
  
@@ -29,7 +29,7 @@ After execution, output csv file will be generated.
  
 ...
 
-## Output csv format:	
+## OUTPUT CSV FORMAT
 
 (NOTE: stocks might be 90 degree rotated, Y coordinate increases downward)
  
@@ -37,7 +37,7 @@ After execution, output csv file will be generated.
  
 2nd line: stock2 Left, stock2 Top, stock2 Width, stock2 Height
 
-## example below:
+## EXAMPLE
  
 ### in.csv:
  
