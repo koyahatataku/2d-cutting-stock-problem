@@ -37,6 +37,8 @@ After execution, output csv file will be generated.
  
 2nd line: stock2 Left, stock2 Top, stock2 Width, stock2 Height
 
+...
+
 ## EXAMPLE
  
 ### in.csv
