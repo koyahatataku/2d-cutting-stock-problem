@@ -92,7 +92,7 @@ eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
  
 ## NOTE
  
-Though this program can genates other solutions with backtracking internally, 
+Though this program can generates other solutions with backtracking internally, 
  
 by usage above user only get the first solution.
        
