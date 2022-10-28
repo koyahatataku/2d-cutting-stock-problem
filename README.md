@@ -14,13 +14,10 @@ You need to do below in advance:
 - set its excutable program path into PATH environment variable.
 
 
-
 then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell or command prompt:
 
 - eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_PATH,OUTPUT_CSV_PATH)"
   
-(you should set eclipse path into enviroment variable PATH in advance)
-
 ## input csv format(all numbers must be integers):
  
 1st line: container Width, container Height
