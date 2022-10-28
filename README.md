@@ -16,7 +16,7 @@ eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CS
  
 1st line: container Width, container Height
  
-2nd line: stock1 Width, stock1 Width
+2nd line: stock1 Width, stock1 Height
  
 3rd line: stock2 Width, stock2 Height
  
@@ -24,11 +24,11 @@ eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CS
 
 ## output csv format:	
 
-(note: stocks might be 90 degree rotated)
+(note: stocks might be 90 degree rotated, y coodinate increses downward)
  
-1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Width
+1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Height
  
-2nd line: stock2 Left, stock2 Top, stock2 Width, stock2 Width
+2nd line: stock2 Left, stock2 Top, stock2 Width, stock2 Height
 
 ## example below:
  
