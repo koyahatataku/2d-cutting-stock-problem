@@ -7,13 +7,12 @@ DATE:		Oct 28, 2022
 DESCRIPTION:	solving 2d cutting stock problem
 
 ## USAGE
-You need to :
+You need to do below in advance:
 
 - install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc and 
 
 - set its excutable program path into PATH environment variable.
 
-in advance.
 
 
 then try below on your shell or command prompt:
