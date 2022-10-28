@@ -11,8 +11,7 @@ You need to do below in advance:
 
 - install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc  
 
-- set its excutable program path into PATH environment variable.
-
+- set its executable program path into the PATH environment variable.
 
 then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell or command prompt:
 
@@ -30,7 +29,7 @@ then copy cuttingstock2d.ecl into your environment and prepare your input csv fi
 
 ## output csv format:	
 
-(note: stocks might be 90 degree rotated, y coodinate increses downward)
+(note: stocks might be 90 degree rotated, y coordinate increases downward)
  
 1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Height
  
