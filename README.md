@@ -94,6 +94,6 @@ eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d('in.csv','out.csv')"
  
 Though this program can generates other solutions with backtracking internally, 
  
-by usage above user only get the first solution.
+by usage above user only gets the first solution.
        
 For getting other solutions, consider calling from PHP or Python libraries.
