@@ -9,7 +9,7 @@ DESCRIPTION:	solving 2d cutting stock problem
 ## USAGE
 You need to do below in advance:
 
-- install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc and 
+- install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc  
 
 - set its excutable program path into PATH environment variable.
 
