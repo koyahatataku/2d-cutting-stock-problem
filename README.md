@@ -19,7 +19,7 @@ Then copy cuttingstock2d.ecl into your environment and prepare your input csv fi
 
 After execution, output csv file will be generated.
   
-## INPUT CSV FORMAT(all numbers must be integers):
+## INPUT CSV FORMAT(all numbers must be integers)
  
 1st line: container Width, container Height
  
