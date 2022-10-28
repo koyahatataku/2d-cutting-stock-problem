@@ -11,7 +11,7 @@ You need to :
 
 - install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc and 
 
-- set the excutable program path into PATH environment variable.
+- set its excutable program path into PATH environment variable.
 
 in advance.
 
