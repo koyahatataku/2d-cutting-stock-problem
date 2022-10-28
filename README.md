@@ -7,8 +7,18 @@ DATE:		Oct 28, 2022
 DESCRIPTION:	solving 2d cutting stock problem
 
 ## USAGE
- 
-eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_NAME,OUTPUT_CSV_NAME)"
+You need to :
+
+- install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc and 
+
+- set the excutable program path into PATH environment variable.
+
+in advance.
+
+
+then try below on your shell or command prompt:
+
+- eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_PATH,OUTPUT_CSV_PATH)"
   
 (you should set eclipse path into enviroment variable PATH in advance)
 
