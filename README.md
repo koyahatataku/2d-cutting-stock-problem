@@ -51,15 +51,15 @@ eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d('in.csv','out.csv')
  
 ### stdout:
  
-1  1  1  4  4  4  4  4------
+  1  1  1  4  4  4  4  4------
    
-1  1  1  4  4  4  4  4------
+  1  1  1  4  4  4  4  4------
    
-1  1  1---------------------
+  1  1  1---------------------
    
-2  3  3  3  3  3  3---------
+  2  3  3  3  3  3  3---------
    
-2  3  3  3  3  3  3---------
+  2  3  3  3  3  3  3---------
    
 ---  3  3  3  3  3  3---------
  
@@ -83,7 +83,7 @@ eclipse -f cuttingstock2d.ecl -e solve_cutting_stock_2d('in.csv','out.csv')
 3,0,5,2
  
  
-###NOTE: 
+### NOTE: 
  
 Though this program can genates other solutions with backtracking internally, 
  
