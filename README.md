@@ -83,7 +83,9 @@
  3,0,5,2
  
  
- NOTE: Though this program can genates other solutions with backtracking internally, 
+ ###NOTE: 
+ 
+ Though this program can genates other solutions with backtracking internally, 
  
        by usage above user only get the first solution.
        
