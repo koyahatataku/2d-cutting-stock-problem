@@ -31,7 +31,7 @@ After execution, output csv file will be generated.
 
 ## OUTPUT CSV FORMAT
 
-(NOTE: stocks might be 90 degree rotated, Y coordinate increases downward)
+(NOTE: Stocks might be 90 degree rotated. Y coordinate increases downward)
  
 1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Height
  
