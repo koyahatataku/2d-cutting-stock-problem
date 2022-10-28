@@ -9,15 +9,17 @@ DESCRIPTION:	solving 2d cutting stock problem
 ## USAGE
 You need to do below in advance:
 
-- install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc  
+- Install ECLiPSe CLP(http://www.eclipseclp.org/) into your server/pc  
 
-- set its executable program path into the PATH environment variable.
+- Set its executable program path into the PATH environment variable.
 
-then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell/command prompt:
+Then copy cuttingstock2d.ecl into your environment and prepare your input csv file, and execute this command on your shell/command prompt:
 
 - eclipse -f cuttingstock2d.ecl -e "solve_cutting_stock_2d(INPUT_CSV_PATH,OUTPUT_CSV_PATH)"
+
+After execution, output csv file will be generated.
   
-## input csv format(all numbers must be integers):
+## Input csv format(all numbers must be integers):
  
 1st line: container Width, container Height
  
@@ -27,9 +29,9 @@ then copy cuttingstock2d.ecl into your environment and prepare your input csv fi
  
 ...
 
-## output csv format:	
+## Output csv format:	
 
-(note: stocks might be 90 degree rotated, y coordinate increases downward)
+(NOTE: stocks might be 90 degree rotated, Y coordinate increases downward)
  
 1st line: stock1 Left, stock1 Top, stock1 Width, stock1 Height
  
@@ -94,4 +96,4 @@ Though this program can genates other solutions with backtracking internally,
  
 by usage above user only get the first solution.
        
-for getting other solutions, consider calling from PHP or Python libraries.
+For getting other solutions, consider calling from PHP or Python libraries.
